@@ -28,8 +28,3 @@ PDF → Chunking → Embedding → Vector DB → Retrieval → Answer → HITL
 - Technical Documentation
 - Colab Notebook
 
-## 📽️ Demo
-(Insert your video link here)
-
-## 🔗 LinkedIn Post
-(Insert your LinkedIn link here)
